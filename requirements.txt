@@ -1,0 +1,6 @@
+fastapi
+httpx
+python-dotenv
+itsdangerous
+pydantic[email]
+git+https://github.com/merev/raccoon-common-backend.git
