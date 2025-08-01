@@ -1,6 +1,5 @@
 fastapi
 httpx
-python-git
 python-dotenv
 itsdangerous
 pydantic[email]
